@@ -7,13 +7,11 @@ class Solution {
                 stack.push(x);
             }else{
                 if(stack.isEmpty()) return false;
-                System.out.println(x+" "+ stack.peek());
                 if(methodCall(x, stack.peek())){
                     stack.pop();
                 }else return false;
             }
         }
-        System.out.println(stack.isEmpty());
         return stack.isEmpty();
     }
     public boolean methodCall(char x, char y){
