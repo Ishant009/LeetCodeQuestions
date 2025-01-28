@@ -12,8 +12,6 @@ class Solution {
             }else{
                 counter++;
             }
-      
-            // System.out.println("nums[i]: "+nums[i] + "  counter:"+counter+ " k:"+k+"  i:" +i + "  :  "+Arrays.toString(nums));
         }
         return k;
     }
