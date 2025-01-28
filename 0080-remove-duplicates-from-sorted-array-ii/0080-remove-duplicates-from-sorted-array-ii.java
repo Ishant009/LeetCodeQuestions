@@ -1,17 +1,19 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int k=0;
-        Map<Integer, Integer> map = new HashMap<>();
-        for(int i=0; i<nums.length;i++){
-            if(map.containsKey(nums[i])){
-                if(map.get(nums[i])<2){
-                    nums[k++]= nums[i];
-                }
-                map.put(nums[i], map.get(nums[i])+1);
+        int k=1;
+        int counter =1;
+        for(int i=1; i<nums.length;i++){
+            if(nums[i]!=nums[i-1]){
+               nums[k++]= nums[i]; 
+               counter=1;
+            }else if(nums[i]==nums[i-1] && counter<2){
+                nums[k++]=nums[i];
+                counter++;
             }else{
-                map.put(nums[i], 1);
-                nums[k++] = nums[i];
+                counter++;
             }
+      
+            // System.out.println("nums[i]: "+nums[i] + "  counter:"+counter+ " k:"+k+"  i:" +i + "  :  "+Arrays.toString(nums));
         }
         return k;
     }
