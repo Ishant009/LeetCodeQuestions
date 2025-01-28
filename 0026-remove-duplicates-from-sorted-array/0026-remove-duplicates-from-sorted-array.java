@@ -1,10 +1,8 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        Map<Integer, Integer> map = new HashMap<>();
-        int k=0;
-        for(int i=0;i<nums.length;i++){
-            if(!map.containsKey(nums[i])){
-                map.put(nums[i], 1);
+        int k=1;
+        for(int i=1;i<nums.length;i++){
+            if(nums[i-1]!=nums[i]){
                 nums[k++] = nums[i];
             }
         }
