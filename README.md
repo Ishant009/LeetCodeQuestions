@@ -31,12 +31,14 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0274-h-index) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0274-h-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,4 +64,8 @@
 | [0045-jump-game-ii](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
