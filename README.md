@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0189-rotate-array) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -34,6 +35,7 @@
 | [0169-majority-element](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0189-rotate-array) |
 | [0274-h-index](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0274-h-index) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Sorting
 |  |
@@ -45,6 +47,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0169-majority-element) |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -70,4 +73,12 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0274-h-index) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
