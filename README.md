@@ -37,6 +37,7 @@
 | [0274-h-index](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0274-h-index) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Sorting
 |  |
 | ------- |
