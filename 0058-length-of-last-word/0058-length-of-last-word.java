@@ -1,6 +1,5 @@
 class Solution {
     public int lengthOfLastWord(String s) {
-        String[]  arr = s.split(" ");
         int count = 0;
         String str = s.stripTrailing();
         int i = str.length()-1;
