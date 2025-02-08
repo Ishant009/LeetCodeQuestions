@@ -41,6 +41,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1319-unique-number-of-occurrences](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1927-maximum-ascending-subarray-sum) |
 ## Sorting
 |  |
