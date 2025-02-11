@@ -45,6 +45,7 @@
 | [0283-move-zeroes](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -62,6 +63,7 @@
 | [0169-majority-element](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0560-subarray-sum-equals-k](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
