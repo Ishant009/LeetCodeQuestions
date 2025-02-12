@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0045-jump-game-ii) |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
