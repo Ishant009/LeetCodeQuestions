@@ -6,11 +6,10 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             int rem = target-nums[i];
             if(map.containsKey(rem)){
-                arr[0]= i;
-                arr[1]= map.get(rem);
+                return new int[] {map.get(rem),i};
             }
             map.put(nums[i], i);
         }
-        return arr;
+        return new int[]{0,0};
     }
 }
