@@ -10,10 +10,8 @@ class Solution {
             }else if(nums[mid]==1){
                 mid++;
             }else{
-                System.out.println(mid+"  "+ high+"   "+Arrays.toString(nums));
                 swap(nums, mid, high);
                 high--;
-                System.out.println(Arrays.toString(nums));
             }
         }
     }
@@ -21,6 +19,5 @@ class Solution {
         int temp = nums[a];
         nums[a] = nums[b];
         nums[b] = temp;
-
     }
 }
