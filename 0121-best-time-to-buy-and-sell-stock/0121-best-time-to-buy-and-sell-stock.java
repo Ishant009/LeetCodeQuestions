@@ -3,10 +3,9 @@ class Solution {
         int max = 0;
         int min = Integer.MAX_VALUE;
         for(int i=0;i<prices.length;i++){
-            if(min>prices[i]){min = prices[i];}
-            if(prices[i]- min > max){
-                max = prices[i]- min;
-            }     
+            
+            if(prices[i]<min) min = prices[i];
+            max = Math.max(max, prices[i]-min);
         }
         return max;
     }
