@@ -21,6 +21,7 @@
 | [0058-length-of-last-word](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0205-isomorphic-strings) |
+| [0812-rotate-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -135,4 +136,8 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ishant009/LeetCodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
