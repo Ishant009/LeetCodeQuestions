@@ -20,6 +20,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0205-isomorphic-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -75,6 +76,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
