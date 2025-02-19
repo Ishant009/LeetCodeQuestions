@@ -24,6 +24,7 @@
 | [0205-isomorphic-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
