@@ -18,6 +18,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0205-isomorphic-strings) |
@@ -143,4 +144,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0812-rotate-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
