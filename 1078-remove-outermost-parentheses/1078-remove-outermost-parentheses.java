@@ -9,13 +9,13 @@ class Solution {
             }
             if(c=='('){
                 stack.push(c);
-                sb.append(c);
             }else {
                 stack.pop();
-                if(!stack.isEmpty()){
-                    sb.append(c);
+                if(stack.isEmpty()){
+                    continue;
                 }
             }
+            sb.append(c);
         }
         return sb.toString();
     }
