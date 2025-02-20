@@ -3,14 +3,10 @@ class Solution {
             int j=0;
             int k=num.length();
             while(j<k){
-                // System.out.println(str+"   "+num.charAt(k-1));
-                if(Integer.valueOf(num.charAt(k-1))%2!=0){
-                String str = num.substring(j, k);
-                    return str;
-                }
+            if(Integer.valueOf(num.charAt(k-1))%2!=0){
+                return num.substring(j, k);
+            }
                 k--;
-                // System.out.println("i:"+i+" j:"+j+"  k:"+k+"   "+str);
-        
         }
         return "";
     }
