@@ -27,6 +27,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1894-merge-strings-alternately) |
+| [2032-largest-odd-number-in-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/2032-largest-odd-number-in-string) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [2032-largest-odd-number-in-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/2032-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | [0055-jump-game](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0134-gas-station) |
+| [2032-largest-odd-number-in-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/2032-largest-odd-number-in-string) |
 ## Counting Sort
 |  |
 | ------- |
