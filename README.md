@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [1894-merge-strings-alternately](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ishant009/LeetCodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/2551-apply-operations-to-an-array) |
 ## String
 |  |
 | ------- |
@@ -69,6 +70,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ishant009/LeetCodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -144,6 +146,7 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ishant009/LeetCodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/2551-apply-operations-to-an-array) |
 ## String Matching
 |  |
 | ------- |
