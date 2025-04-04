@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0189-rotate-array) |
@@ -159,4 +160,12 @@
 |  |
 | ------- |
 | [1078-remove-outermost-parentheses](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1078-remove-outermost-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
