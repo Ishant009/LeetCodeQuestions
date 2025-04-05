@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0031-next-permutation) |
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
