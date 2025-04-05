@@ -168,10 +168,12 @@
 | [0002-add-two-numbers](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0024-swap-nodes-in-pairs) |
+| [0206-reverse-linked-list](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
