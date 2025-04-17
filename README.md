@@ -61,6 +61,7 @@
 | [0136-single-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0274-h-index) |
@@ -134,11 +135,13 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -176,4 +179,8 @@
 | [0002-add-two-numbers](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
