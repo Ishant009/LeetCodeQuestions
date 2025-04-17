@@ -11,14 +11,12 @@ class Solution {
             if(!str.contains(sc+"")){
                 str+=sc;
             }else{
-                str += sc;
-                str = str.substring(str.indexOf(sc)+1, str.length());
+                i = map.get(sc);
+                str+=sc;
+                str = s.substring(i, j);
             }
-            if(str.length()>maxlen){
-                maxlen= str.length();
-            }
+            maxlen= Math.max(str.length(), maxlen);
             map.put(sc, j);
-            // System.out.println(map+"   "+ maxlen);
             
         }
         return maxlen;
