@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1894-merge-strings-alternately) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ishant009/LeetCodeQuestions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/2551-apply-operations-to-an-array) |
@@ -72,6 +73,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -87,6 +89,7 @@
 | [0242-valid-anagram](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0274-h-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
