@@ -5,18 +5,19 @@ class Solution {
         int l=0;
         int h=0;
         int i=0;
+        String sb="";
         if(s.length()<=1) return s.length();
         while(l<s.length()){
-            Set<Character> set = new HashSet<>();
-             while(h<s.length() && !set.contains(s.charAt(h)) ){
-                    set.add(s.charAt(h));
+             while(h<s.length() && !sb.contains(s.charAt(h)+"") ){
+                    // sb.add(s.charAt(h));
+                    sb+=s.charAt(h);
                     count++;
                     h++; 
             }
             maxCount = Math.max(count, maxCount);
                 h=l;
                 count=0;
-                set.clear();   
+                sb="";
             l++;
         
         }
