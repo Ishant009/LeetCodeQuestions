@@ -22,9 +22,6 @@ class Solution {
                 }
                 l++;
                 k = h-l+1;
-                if(k==map.size()){
-                    break;
-                }
             }
             // System.out.println("after: "+map);
         }
