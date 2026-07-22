@@ -75,6 +75,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1319-unique-number-of-occurrences) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -198,4 +199,5 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
