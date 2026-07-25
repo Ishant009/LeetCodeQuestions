@@ -1,15 +1,17 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-
         int l=0;
         int h=0;
         int[] arr = new int[26];
         int res = Integer.MIN_VALUE;
+        int maxCount=0;
+        int diff=0;
+        int len=0;
         for(h=0;h<s.length();h++){
             arr[s.charAt(h)-'A']++;
-            int len = h-l+1;
-            int maxCount = countMaxCharacter(arr);
-            int diff= len-maxCount;
+            len = h-l+1;
+            maxCount = countMaxCharacter(arr);
+            diff= len-maxCount;
             while(diff>k){
                 arr[s.charAt(l)-'A']--;
                 l++;
@@ -27,7 +29,6 @@ class Solution {
 
     public int countMaxCharacter(int[] arr){
         int count =0;
-        int maxCount= Integer.MIN_VALUE;
         for(int i=0;i<26;i++){
             if(arr[i]>0){
                 count = Math.max(arr[i], count);
