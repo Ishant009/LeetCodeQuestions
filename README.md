@@ -83,6 +83,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1319-unique-number-of-occurrences) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -99,6 +100,7 @@
 | [0274-h-index](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ishant009/LeetCodeQuestions/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -212,4 +214,8 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
