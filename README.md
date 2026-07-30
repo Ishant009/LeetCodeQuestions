@@ -32,6 +32,7 @@
 | [0383-ransom-note](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
+| [0520-detect-capital](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1146-greatest-common-divisor-of-strings) |
