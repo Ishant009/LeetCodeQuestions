@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1894-merge-strings-alternately) |
@@ -33,6 +34,7 @@
 | [0409-longest-palindrome](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0520-detect-capital](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0520-detect-capital) |
+| [0567-permutation-in-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1078-remove-outermost-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -117,6 +119,7 @@
 | [0409-longest-palindrome](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [1319-unique-number-of-occurrences](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
@@ -213,6 +216,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 ## Heap (Priority Queue)
