@@ -1,11 +1,17 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int k=1;
+
+        int a = nums[0];
+        int l = 0;
         for(int i=1;i<nums.length;i++){
-            if(nums[i-1]!=nums[i]){
-                nums[k++] = nums[i];
+            System.out.println(nums[l] +"    "+nums[i]);
+            if(nums[l]==nums[i]){
+                continue;
             }
+            nums[++l]=nums[i];
         }
-        return k;
+        System.out.println(Arrays.toString(nums));
+        return l+1;
+        
     }
 }
