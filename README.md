@@ -16,6 +16,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0908-middle-of-the-linked-list) |
@@ -50,6 +51,7 @@
 | [0007-reverse-integer](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -116,6 +118,7 @@
 | [0141-linked-list-cycle](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
@@ -237,4 +240,5 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
