@@ -18,6 +18,7 @@
 | [0189-rotate-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
@@ -83,6 +84,7 @@
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
@@ -182,12 +184,14 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -241,4 +245,9 @@
 | [0141-linked-list-cycle](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
