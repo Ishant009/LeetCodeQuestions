@@ -20,6 +20,7 @@
 | [0202-happy-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0908-middle-of-the-linked-list) |
@@ -88,6 +89,7 @@
 | [0274-h-index](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0560-subarray-sum-equals-k) |
@@ -112,6 +114,7 @@
 | [0242-valid-anagram](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -128,6 +131,7 @@
 | [0205-isomorphic-strings](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0409-longest-palindrome) |
@@ -192,6 +196,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Ishant009/LeetCodeQuestions/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ishant009/LeetCodeQuestions/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
